@@ -1,0 +1,10 @@
+
+
+# Original Files
+*.orig
+
+# Build Files
+dwm
+drw.o
+dwm.o
+util.o
